@@ -1,4 +1,4 @@
-# Hello and welcome! I'm Joy Umoekpo and this is me:
+# Hello all! I'm Joy Umoekpo and this is me:
 🔭 I’m currently a Software Engineer<br>🌱 I’m currently learning ReactJS and AWS<br>💃🏿🕺🏿 I’m looking to collaborate on React projectss<br>🤔 I’m looking for help with sending emails in ReactJS<br>⚡ Fun fact: Elephants are my favorite animal!<br>📨 How to contact me: joyumoekpo1@gmail.com and www.linkedin.com/in/joyumoekpo<br>
 
 
