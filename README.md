@@ -1,5 +1,5 @@
 # Hello all! I'm Joy Umoekpo and this is me:
-🔭 I’m currently working on React applications.<br>🌱 I’m currently learning ReactJS with AWS.<br>💃🏿🕺🏿 I’m looking to collaborate on React projects.<br>🤔 I’m looking for help with sending emails in ReactJS.<br>⚡ Fun fact: Elephants are my favorite animal!<br>📨 How to contact me: joyumoekpo1@gmail.com and www.linkedin.com/in/joyumoekpo<br>
+🔭 I’m currently working on React applications.<br>🌱 I’m currently learning ReactJS with AWS.<br>💃🏿🕺🏿 I’m looking to collaborate on React projects.<br>🤔 I’m looking for help with sending emails in ReactJS.<br>⚡ Fun fact: Elephants are my favorite animal!<br>📨 How to contact me: joyumoekpo1@gmail.com and www.linkedin.com/in/joyumoekpo .<br>
 
 
 ## 🌐 Socials:
